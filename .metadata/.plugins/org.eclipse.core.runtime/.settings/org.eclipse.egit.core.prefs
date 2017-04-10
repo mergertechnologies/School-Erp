@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=/root/.git\:
+GitRepositoriesView.GitDirectories.relative=/root/.git\:
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
